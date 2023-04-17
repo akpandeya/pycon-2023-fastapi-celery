@@ -1,0 +1,15 @@
+{
+    "id": "9d4f4aa2-4efb-4be6-8e99-294e9730a7b1",
+    "name": "Rainbow Sparkle Unicorn Plush",
+    "currency": "EUR",
+    "price": 19.99,
+    "discounts": [
+        {
+            "code": "UNICORN10",
+            "rate": 10
+        }
+    ],
+    "description": "This adorable plush is the perfect addition to any unicorn lover's collection. With a rainbow mane and tail, sparkly hooves, and a shiny horn, it's sure to brighten up your day!",
+    "image": "https://example.com/unicorn-plush.jpg",
+    "in_stock": 10
+}

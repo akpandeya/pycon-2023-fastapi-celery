@@ -1,0 +1,27 @@
+[tool.poetry]
+name = "flask-celery-tdd"
+version = "0.1.0"
+description = ""
+authors = ["Avanindra Kumar Pandeya <akpandeya1@gmail.com>"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+fastapi = "^0.95.0"
+pytest-testmon = "^2.0.6"
+sqlmodel = "^0.0.8"
+pre-commit = "^3.2.2"
+celery = "^5.2.7"
+redis = "^4.5.4"
+
+[tool.poetry.group.dev.dependencies]
+black = "^23.1.0"
+pytest = "^7.2.2"
+flake8 = "^6.0.0"
+isort = "^5.12.0"
+pre-commit = "^3.2.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

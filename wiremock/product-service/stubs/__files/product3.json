@@ -1,0 +1,15 @@
+{
+    "id": "b0d6dd8f-15e1-4a13-831c-4a9d1a4c4e4f",
+    "name": "Silly Sausage Dog Pillow",
+    "currency": "EUR",
+    "price": 14.99,
+    "discounts": [
+        {
+            "code": "SAUSAGE20",
+            "rate": 20
+        }
+    ],
+    "description": "This adorable pillow is shaped like a silly sausage dog and is super soft and cuddly. It's the perfect accessory for your couch or bed!",
+    "image": "https://example.com/sausage-pillow.jpg",
+    "in_stock": 0
+}

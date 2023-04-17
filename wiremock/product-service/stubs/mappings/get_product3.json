@@ -1,0 +1,14 @@
+{
+    "request": {
+        "urlPathPattern": "/product/b0d6dd8f-15e1-4a13-831c-4a9d1a4c4e4f",
+        "method": "GET"
+    },
+    "response": {
+        "status": 200,
+        "fixedDelayMilliseconds": 200,
+        "bodyFileName": "product3.json",
+        "headers": {
+            "Content-Type": "application/json"
+        }
+    }
+}
